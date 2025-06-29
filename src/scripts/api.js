@@ -1,7 +1,7 @@
 const config = {
   baseUrl: 'https://nomoreparties.co/v1/apf-cohort-202',
   headers: {
-    authorization: '689cb8be-c5e3-49e7-bcd2-c457ef3bc17c',
+    authorization: '438925ee-fea5-4dd3-a4b3-2d576c1a50a5',
     'Content-Type': 'application/json'
   }
 };
